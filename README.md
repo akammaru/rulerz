@@ -1,5 +1,7 @@
 RulerZ [![Build Status](https://travis-ci.org/K-Phoen/rulerz.svg?branch=master)](https://travis-ci.org/K-Phoen/rulerz) [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/K-Phoen/rulerz/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/K-Phoen/rulerz/?branch=master)
 ======
+updated to allow for use with symfony 5.2
+======
 
 > The central idea of Specification is to separate the statement of how to match
 > a candidate, from the candidate object that it is matched against.
